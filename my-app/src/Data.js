@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const App = () => { 
+const App = () => {
   const [data, setData] = useState({
     name: "",
     age: "",
